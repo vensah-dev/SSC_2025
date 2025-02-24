@@ -1,0 +1,24 @@
+<svg width="141" height="141" viewBox="0 0 141 141" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3_318)">
+<rect x="53" y="55" width="5" height="15" fill="#383838"/>
+<rect width="5" height="15" transform="matrix(-1 0 0 1 87 55)" fill="#383838"/>
+<path d="M98 82L100 74.5L80 62L73.75 87L87.5 112L98 82Z" fill="#B1B1B1"/>
+<path d="M60 62L40 74.5L42 82L52.5 112L66.25 87L60 62Z" fill="#B1B1B1"/>
+<path d="M140.5 119L98 82L87.5 112L140.5 122V119Z" fill="#D9D9D9"/>
+<path d="M0 119V122L52.5 112L42 82L0 119Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57.5 119.5L52.5 112H87.5L82.5 119.5H57.5Z" fill="#383838"/>
+<path d="M57.5 119.5L70 124L82.5 119.5H57.5Z" fill="url(#paint0_linear_3_318)"/>
+<path d="M52.5 112H87.5L73.75 87H66.25L52.5 112Z" fill="#661A00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M60 62L65 17L70 16L75 17L80 62H60Z" fill="#852100"/>
+<path d="M73.75 87L80 62H60L66.25 87H73.75Z" fill="#751D00"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_3_318" x1="70.25" y1="119.5" x2="70.25" y2="124" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B36800"/>
+<stop offset="1" stop-color="#852100"/>
+</linearGradient>
+<clipPath id="clip0_3_318">
+<rect width="140.5" height="140.5" fill="white"/>
+</clipPath>
+</defs>
+</svg>
